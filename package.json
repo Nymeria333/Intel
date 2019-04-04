@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node app.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/DevOpsExperiments/intel.git"
+  },
   "author": "Sruthi",
   "license": "ISC",
   "dependencies": {
